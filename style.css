@@ -1,0 +1,26 @@
+#icon{
+  margin-left: 39%; 
+  display: block;
+  
+}
+#bar{
+    margin-left: 35%;
+    border-radius: 15px;
+    width: 350px;
+    height: 30px
+    
+    
+}
+#sub{
+    margin-left: 42.5%;
+    border-radius: 15px;
+   width: 150px;
+    border-style: dashed
+
+}
+div,a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: right;
+} 
+   
+
